@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "59ae8a66d324a17235181d4f",
+    "age": 23,
+    "eyeColor": "green",
+    "name": "Dennis Palmer",
+    "gender": "male",
+    "phone": "+90 (959) 472-3692"
+  },
+  {
+    "_id": "59ae8a66a80347750df003dd",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Bridgett Donovan",
+    "gender": "female",
+    "phone": "+90 (998) 497-2122"
+  },
+  {
+    "_id": "59ae8a66ec26cfa691413d9c",
+    "age": 37,
+    "eyeColor": "green",
+    "name": "Cooke Wilkinson",
+    "gender": "male",
+    "phone": "+90 (965) 519-2298"
+  },
+  {
+    "_id": "59ae8a663ace9e027494c29e",
+    "age": 35,
+    "eyeColor": "brown",
+    "name": "Blackwell Yates",
+    "gender": "male",
+    "phone": "+90 (825) 421-2677"
+  },
+  {
+    "_id": "59ae8a66dc192fae6f1503f8",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Cote Maynard",
+    "gender": "male",
+    "phone": "+90 (845) 415-2156"
+  },
+  {
+    "_id": "59ae8a66dfd58230ab385b55",
+    "age": 28,
+    "eyeColor": "brown",
+    "name": "Dianne Grant",
+    "gender": "female",
+    "phone": "+90 (988) 522-3253"
+  }
+]
